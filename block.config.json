@@ -2,8 +2,8 @@
   "name": "7_Sep",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/7_Sep.git",
+    "ssh": "git@github.com:grgshiji/7_Sep.git",
     "branch": "block_7_Sep"
   },
   "dependencies": {
